@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="SampleDB.PickerBinding">
+	<StackLayout HorizontalOptions = "FillAndExpand" VerticalOptions = "StartAndExpand" Orientation = "Vertical" Spacing ="20" Padding ="20,50,20,0">
+        <Picker x:Name ="majorGropName" Title="Select Major Group Name"  ItemsSource="{Binding MajorGroupNames}" ItemDisplayBinding="{Binding MajorGroup_Name}" SelectedItem="{Binding SelectedMajorGroupName}" HorizontalOptions ="FillAndExpand" VerticalOptions ="Start"/>
+        <Picker Title ="{Binding OrganizationGroupTitle}"  IsEnabled = "{Binding OrganizationsPickerVisible}" ItemsSource="{Binding OrganizationsNames}" ItemDisplayBinding="{Binding Org_Name}" SelectedItem="{Binding SelectedOrganizationsGroupName}"  HorizontalOptions = "FillAndExpand" VerticalOptions = "Start"/>
+        <Picker x:Name ="deprtmentTitle" Title ="{Binding DepartmentGroupTitle, Mode=TwoWay}" IsEnabled = "{Binding DepartmentPickerVisible, Mode=TwoWay}" ItemsSource="{Binding DepartmentNames}" ItemDisplayBinding="{Binding Dept_Name}" SelectedItem="{Binding SelectedDepartMentGroupName}" HorizontalOptions = "FillAndExpand" VerticalOptions = "Start"/>
+    </StackLayout>
+</ContentPage>

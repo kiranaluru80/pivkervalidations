@@ -1,0 +1,67 @@
+﻿<Properties StartupConfiguration="{7AB9C493-D5B5-4610-801F-076A5FD16B1D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleDB/PickerBindingViewModel.cs">
+    <Files>
+      <File FileName="SampleDB/PickerJsonFile.json" Line="759" Column="10" />
+      <File FileName="SampleDB/PickerBindingViewModel.cs" Line="148" Column="1" />
+      <File FileName="SampleDB/PickerBinding.xaml.cs" Line="13" Column="64" />
+      <File FileName="SampleDB/UserGroupPageViewModel.cs" Line="229" Column="35" />
+      <File FileName="SampleDB/UserGroupPage.xaml" Line="49" Column="15" />
+      <File FileName="SampleDB/PickerResponceModel.cs" Line="32" Column="32" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/CommunicationsPage.xaml.cs" relfile="SampleDB/CommunicationsPage.xaml.cs" line="709" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/CommunicationsPage.xaml.cs" relfile="SampleDB/CommunicationsPage.xaml.cs" line="710" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/CommunicationsPage.xaml.cs" relfile="SampleDB/CommunicationsPage.xaml.cs" line="715" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/CommunicationsPage.xaml.cs" relfile="SampleDB/CommunicationsPage.xaml.cs" line="81" column="88" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/CommunicationsPage.xaml.cs" relfile="SampleDB/CommunicationsPage.xaml.cs" line="68" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/CommunicationsPage.xaml.cs" relfile="SampleDB/CommunicationsPage.xaml.cs" line="106" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/CommunicationsPage.xaml.cs" relfile="SampleDB/CommunicationsPage.xaml.cs" line="74" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/CommunicationsPage.xaml.cs" relfile="SampleDB/CommunicationsPage.xaml.cs" line="470" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/CommunicationsPage.xaml.cs" relfile="SampleDB/CommunicationsPage.xaml.cs" line="1156" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/CommunicationsPage.xaml.cs" relfile="SampleDB/CommunicationsPage.xaml.cs" line="1218" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/CommunicationsPage.xaml.cs" relfile="SampleDB/CommunicationsPage.xaml.cs" line="1218" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/CommunicationsPage.xaml.cs" relfile="SampleDB/CommunicationsPage.xaml.cs" line="1403" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/CommunicationsPage.xaml.cs" relfile="SampleDB/CommunicationsPage.xaml.cs" line="1404" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/UserGroupPageViewModel.cs" relfile="SampleDB/UserGroupPageViewModel.cs" line="236" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/UserGroupPage.xaml.cs" relfile="SampleDB/UserGroupPage.xaml.cs" line="74" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/CommunicationsPage.xaml.cs" relfile="SampleDB/CommunicationsPage.xaml.cs" line="961" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/CommunicationsPage.xaml.cs" relfile="SampleDB/CommunicationsPage.xaml.cs" line="987" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/CommunicationsPage.xaml.cs" relfile="SampleDB/CommunicationsPage.xaml.cs" line="987" column="60" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/CommunicationsPage.xaml.cs" relfile="SampleDB/CommunicationsPage.xaml.cs" line="518" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/CommunicationsPage.xaml.cs" relfile="SampleDB/CommunicationsPage.xaml.cs" line="340" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/CommunicationsPage.xaml.cs" relfile="SampleDB/CommunicationsPage.xaml.cs" line="216" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/CommunicationsPage.xaml.cs" relfile="SampleDB/CommunicationsPage.xaml.cs" line="219" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/CommunicationsPage.xaml.cs" relfile="SampleDB/CommunicationsPage.xaml.cs" line="1218" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/CommunicationsPage.xaml.cs" relfile="SampleDB/CommunicationsPage.xaml.cs" line="864" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/CommunicationsPage.xaml.cs" relfile="SampleDB/CommunicationsPage.xaml.cs" line="892" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/UserGroupPage.xaml.cs" relfile="SampleDB/UserGroupPage.xaml.cs" line="30" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/UserGroupPage.xaml.cs" relfile="SampleDB/UserGroupPage.xaml.cs" line="38" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/PickerBindingViewModel.cs" relfile="SampleDB/PickerBindingViewModel.cs" line="148" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/PickerBindingViewModel.cs" relfile="SampleDB/PickerBindingViewModel.cs" line="146" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/PickerBindingViewModel.cs" relfile="SampleDB/PickerBindingViewModel.cs" line="134" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/PickerBindingViewModel.cs" relfile="SampleDB/PickerBindingViewModel.cs" line="100" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/PickerBindingViewModel.cs" relfile="SampleDB/PickerBindingViewModel.cs" line="84" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/PickerBindingViewModel.cs" relfile="SampleDB/PickerBindingViewModel.cs" line="69" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/PickerBindingViewModel.cs" relfile="SampleDB/PickerBindingViewModel.cs" line="159" column="44" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/PickerBindingViewModel.cs" relfile="SampleDB/PickerBindingViewModel.cs" line="62" column="44" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/PickerBindingViewModel.cs" relfile="SampleDB/PickerBindingViewModel.cs" line="137" column="44" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/PickerBindingViewModel.cs" relfile="SampleDB/PickerBindingViewModel.cs" line="39" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/PickerBindingViewModel.cs" relfile="SampleDB/PickerBindingViewModel.cs" line="25" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/PickerBindingViewModel.cs" relfile="SampleDB/PickerBindingViewModel.cs" line="18" column="45" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/PickerBindingViewModel.cs" relfile="SampleDB/PickerBindingViewModel.cs" line="32" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/SampleDB-15Mar-2/SampleDB/PickerBindingViewModel.cs" relfile="SampleDB/PickerBindingViewModel.cs" line="153" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="SampleDB/CommunicationsPage.xaml.cs" line="1210" offsetX="458" offsetY="18135" expression="InputOrgBehaviors[0].BehaviorType_ID" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SampleDB.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D93C4D9C-6BC3-4614-8F47-6511184A1640" />
+  <DisabledProjects>
+    <String>Droid/SampleDB.Droid.csproj</String>
+  </DisabledProjects>
+</Properties>
